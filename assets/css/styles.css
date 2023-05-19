@@ -201,7 +201,7 @@ section .cover-text span {
 }
 
 .chef-info {
-    margin-top: 100px;
+    margin-top: 80px !important;
 }
 
 .chef-title {
