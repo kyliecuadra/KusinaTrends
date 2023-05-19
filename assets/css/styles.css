@@ -183,8 +183,6 @@ section .cover-text span {
     background: #f8b735;
 }
 
-
-
 .recipes .card {
     height: auto;
     width: 200px;
@@ -200,6 +198,10 @@ section .cover-text span {
     font-family: Monteserrat;
     font-size: 14px;
     color: #2b898b;
+}
+
+.chef-info {
+    margin-top: 100px;
 }
 
 .chef-title {
