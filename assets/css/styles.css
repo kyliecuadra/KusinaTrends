@@ -293,3 +293,17 @@ section .cover-text span {
         display: initial;
     }
 }
+
+
+@media (min-width: 800px){
+    section .cover-text{
+    font-size: 9rem;
+    }
+}
+
+@media (min-width: 1000px){
+    section .cover-text{
+    font-size: 13rem;
+    }
+}
+
