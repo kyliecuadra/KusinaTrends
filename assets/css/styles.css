@@ -183,13 +183,13 @@ section .cover-text span {
     background: #f8b735;
 }
 
-.recipes .card {
+.recipe-cards .card {
     height: auto;
     width: 200px;
     margin: 20px auto;
 }
 
-.recipes .card a {
+.recipe-cards .card a {
     text-decoration: none;
     color: #000;
 }
