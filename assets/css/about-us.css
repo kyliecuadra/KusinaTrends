@@ -223,11 +223,16 @@ section {
     font-size: 20px;
 }
 
-@media (min-width: 1920px){
-    body > .container{
-        overflow-y: hidden;
+@media (min-width: 1400px) {
+    section {
+        margin-top: 120px;
     }
     
+    .container {
+        max-width: 100rem!important;
+        overflow-y: hidden;
+    }
+
     .container .mt-4{
         margin-top: 0!important;
     }
