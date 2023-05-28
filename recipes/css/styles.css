@@ -134,6 +134,7 @@ section {
 
 .container div .food-img img{
     width: 100%;
+    height: 90%;
 }
 
 .food-name span {
